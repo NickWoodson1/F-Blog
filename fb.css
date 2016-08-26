@@ -1,0 +1,300 @@
+*{
+font-family: "Tahoma";
+margin: 0px;
+padding: 0px;
+}
+
+div#wrapper{
+    margin-left: 69%;
+}
+
+#wrapper {
+    width: auto;
+    height: 20px;
+    padding-top: 6px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 8px;
+    border-bottom: 1px;
+    margin-bottom: 5px; 
+    background-color: white;
+    color: #000000;
+    display: inline-block;
+    font-size: 16px;  
+    margin-left: 60%;
+}
+img#font{
+    margin-left: 42%;
+}
+
+div.container{
+    height: 75px;
+    width: auto;
+    border-top: 5px solid black;
+    padding border-bottom: 20px;
+    padding-left: 0px
+}
+
+#nav_bar{
+width: 966px;
+display: inline-block;
+height: 21;
+}
+#header{
+    display: inline-block;
+    background-color: white;
+    height: 21px;
+    width: 966px;
+    }
+ul{
+    margin-left: 20%;
+}
+
+a{
+    color: #000000;
+    text-align: center;
+}
+
+
+
+h2 { 
+   position: absolute; 
+   text-decoration: underline;
+   color: white;
+   font-family: courier;
+   margin-top: -5%; 
+   margin-left: 5%; 
+}
+
+    h4{
+    text-align: center;
+    font-size: 18px;
+    }
+
+
+    h1{
+        text-decoration: underline;
+
+    }
+
+h2{
+     text-decoration: underline;
+}
+
+
+#container_bottom {
+    width: 966px;
+    height: 1700px;
+    background-color: white;
+    position: relative;
+}
+
+#left {
+    margin-top: 10%;
+    margin-left: 10%; 
+    position: relative;
+}
+
+#top_right {
+     margin-left: 76%;
+    margin-top: -37%;
+    position: absolute;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    width: 400px;
+    font-family: verdana;
+}
+
+#right {
+    margin-left:45% ;
+    margin-top: -14%;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#bottom_right{
+    margin-left: 76%;
+    margin-top: -15%;
+    position: relative;
+}
+
+
+#bottom_left{
+    margin-left:-35% ;
+    margin-top: -50%;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#third_left{
+  margin-top: -60%;
+    margin-left: -270%; 
+    position: absolute;
+}
+
+#third_right {
+    margin-left:-135% ;
+    margin-top: 28%;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+#fourth_right {
+    margin-left: 0%;
+    margin-top: 35%;
+    position: absolute;
+} 
+#fourth_left {
+    margin-left:-35% ;
+    margin-top: 120%;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#top { 
+     margin-left: -250%;
+    margin-top: -37%;
+    position: absolute;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    width: 400px;
+    font-family: verdana;
+}
+#container_end {
+    width: 966px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+}
+#bottom {
+ height: 250px; 
+ width: 960px;
+ display: inline-block;
+ border: solid black 10px;
+ padding: 1px;
+  margin-left: -250%;
+  margin-top: 50%;
+    }
+
+   
+
+  #container_finishing {
+    width: 966px;
+    height: 800px;
+    background-color: white;
+    position: absolute;
+    color: black;
+}
+   #subscibe {
+    margin-top: 20%;
+    margin-left: -225%;
+    color: black;
+    }
+
+
+   #content {
+margin-bottom: 10%;
+margin-top: 15%;
+margin-left: -225%;
+font-size: 36px;
+  color: black; 
+width: 545px;}
+
+#email {
+    height: 18px;
+    width: 200px;
+   margin-top: 0%;
+    padding: 20px; 
+    font-size: 16px;
+  }
+#space {
+padding: 30%;
+}
+
+#footer{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 1440px;
+    font-size: 30px;
+    margin-left: -38%;
+text-align: center;
+    }
+
+    /* Dropdown Button */
+.dropbtn {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: white;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+
+
+
